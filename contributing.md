@@ -159,7 +159,7 @@ stores them, and avoids upload time on large files.
 
 ---
 
-*upscaler-edition · Updated 2026-10-24 · Shared under the MIT License*
+*upscaler-edition · Updated 2026-10-25 · Shared under the MIT License*
 
 
-*Last updated: 2026-10-24*
+*Last updated: 2026-10-25*
