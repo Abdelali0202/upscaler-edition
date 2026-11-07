@@ -159,4 +159,4 @@ stores them, and avoids upload time on large files.
 
 ---
 
-*upscaler-edition · Updated 2026-11-06 · Shared under the MIT License*
+*upscaler-edition · Updated 2026-11-07 · Shared under the MIT License*
